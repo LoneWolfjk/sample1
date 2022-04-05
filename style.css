@@ -1,0 +1,32 @@
+body{
+    background-color: darkslategray;
+}
+#btn{
+    width: 25%;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 5px;
+    margin: auto;
+
+}
+#Fname{
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 8px;
+
+}
+#Pnumber{
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 8px;
+}
+#Email{
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 8px;
+}
+#Mess{
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 8px;    
+}
